@@ -22,7 +22,7 @@
         android:layout_margin="32dp"
         android:src="@drawable/ic_tambah"
         />
-    
+
     <ProgressBar
         android:id="@+id/pb_kampus"
         android:layout_width="wrap_content"
